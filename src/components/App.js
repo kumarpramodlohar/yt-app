@@ -29,6 +29,7 @@ setSelectedVideo(videos[0]);
      onVideoSelect={(video)=>setSelectedVideo(video)} 
      videos={videos} 
      />
+     <div>Created by Pramod</div>
     </div>
     </div>
     </div>
